@@ -98,6 +98,7 @@ holiday.each do |holiday, values|
 puts " #{array}"
      
    end
+ end
 
 end
 
