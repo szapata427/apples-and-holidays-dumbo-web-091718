@@ -96,7 +96,7 @@ holiday.each do |holiday, values|
   string = holiday.to_s.split(" ").collect { |holi| holi.capitalize!}
   final_holiday = string.join(" ")
 
-puts "#{final_holiday}: #{array}"
+puts " #{final_holiday}: #{array}"
      
    end
  end
