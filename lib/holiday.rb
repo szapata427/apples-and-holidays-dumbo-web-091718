@@ -95,7 +95,7 @@ holiday.each do |holiday, values|
   array = values.join(", ")
   string = holiday.to_s
 
-puts " #{array}"
+puts "#{string} #{array}"
      
    end
  end
